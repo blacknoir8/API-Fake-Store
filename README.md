@@ -1,1 +1,1 @@
-# API-Fake-Store
+# e-commerce-fake
